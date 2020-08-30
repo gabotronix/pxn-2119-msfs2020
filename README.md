@@ -8,7 +8,7 @@ The PXN-2119 is a poor simmer's HOTAS. It's the only HOTAS available in my regio
 In FS2020, the PXN-2119 has no name. It's probably because the Windows 10 driver for it is not in English. I didn't find a way, in-game or otherwise, to export the controls as an XML. So, this repo will have to be in the form of a documentation for now.
 
 # How To Use This Repository
-This repository contains text files that have button and axis assignments for several aircraft. Simply click on a text file for the aircraft you like, then use it as a reference for your in-game control options in FS2020 > Options > Controls. You can search by Name or Input within the FS2020 control options.
+This repository contains files in Markdown format. Each one has button and axis assignments for a particular aircraft. Simply click on a file for the aircraft you like, then use it as a reference for your in-game control options in FS2020 > Options > Controls. You can search by Name or Input within the FS2020 control options.
 
 If you're just getting started like me, you might want to check out the controls for the Cessna 152 as a starting point. It's the aircraft used in the training lessons.
 
@@ -20,7 +20,7 @@ In FS2020, you can assign controls for each aircraft via the Preset Manager. Her
 3. Click on PRESET MANAGER and assign a name to it. For example, name it _PXN-2119-CESSNA-152_.
 4. In the FILTER setting, set it to ALL instead of ESSENTIALS.
 5. Search for a particular control name in the SEARCH setting.
-6. Use the text files contained in this repository as a reference.
+6. Use the files contained in this repository as a reference.
 
 ## PXN-2119 Buttons and Axes
 The PXN-2119 has 18 buttons, 6 axes, and 2 POV hats. The Throttle base is connected to the Joystick base via a PS2 connector (KB/mouse connector from the olden days). Then, the Joystick base is connected to the PC via USB:
