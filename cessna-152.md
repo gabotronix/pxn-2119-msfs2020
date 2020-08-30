@@ -23,8 +23,9 @@
     - 12: _TOGGLE LANDING LIGHTS_
 - Slider Axis: **FLAPS AXIS (-100 TO 100%)** (Joystick Slider X)
 - POV Hat: _(can be assigned to multiple camera views)_
-    - Down: **COCKPIT LOOK DOWN**
-          : **EXTERNAL VIEW LOOK DOWN**
+    - Down:
+        - **COCKPIT LOOK DOWN**
+        - **EXTERNAL VIEW LOOK DOWN**
     - Down-Left: **COCKPIT LOOK DOWN LEFT**
                : **EXTERNAL VIEW LOOK DOWN LEFT**
     - Down-Right: **COCKPIT LOOK DOWN RIGHT**
