@@ -60,6 +60,8 @@
 - POV hat on throttle
 - Small Rotary Axis (right) on throttle
 
+![pxn2119_control_labels](https://user-images.githubusercontent.com/9207205/91651736-d9643700-eac2-11ea-996f-206442c51563.jpg)
+
 ***
 
 ### Keyboard: Essential Controls
@@ -76,7 +78,3 @@
 ## Reference Aircraft - Cessna 152
 
 ![pxn2119_cessna152_parts](https://user-images.githubusercontent.com/9207205/91654003-23a3e300-ead8-11ea-8346-c31ab824a6cb.jpg)
-
-## PXN-2119 Joystick and Throttle
-
-![pxn2119_control_labels](https://user-images.githubusercontent.com/9207205/91651736-d9643700-eac2-11ea-996f-206442c51563.jpg)
