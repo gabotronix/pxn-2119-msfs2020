@@ -75,10 +75,11 @@
 - END: **COCKPIT/EXTERNAL VIEW MODE**
 - SCROLL LOCK: **DISPLAY ATC**
 - v: **DISPLAY MAP**
-- Up arrow: **INCREASE COCKPIT VIEW HEIGHT**
-- Down arrow: **DECREASE COCKPIT VIEW HEIGHT**
-- Left arrow: **TRANSLATE COCKPIT VIEW LEFT**
-- Right arrow: **TRANSLATE COCKPIT VIEW RIGHT**
+- Directional Arrow Keys (Cockpit View): Navigate cockpit interior
+    - Up arrow: **INCREASE COCKPIT VIEW HEIGHT**
+    - Down arrow: **DECREASE COCKPIT VIEW HEIGHT**
+    - Left arrow: **TRANSLATE COCKPIT VIEW LEFT**
+    - Right arrow: **TRANSLATE COCKPIT VIEW RIGHT**
 - CTRL + Space (or _f_ key):
     - **RESET COCKPIT VIEW**
     - **RESET DRONE TOP DOWN VIEW**
