@@ -75,6 +75,6 @@
 
 ***
 
-PXN-2119 Joystick and Throttle
+### PXN-2119 Joystick and Throttle
 
 ![pxn2119_control_labels](https://user-images.githubusercontent.com/9207205/91651736-d9643700-eac2-11ea-996f-206442c51563.jpg)
