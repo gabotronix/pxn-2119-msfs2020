@@ -8,7 +8,7 @@
 
 ### Joystick
 - Joystick: **AILERONS AXIS** (Joystick L-Axis X)
-- Button 1 - Trigger: **Brake**
+- Button 1 - Trigger: **BRAKES**
 - Button 2 - Lower Trigger: **TOGGLE PARKING BRAKES**
 - Button 3: **Elevator down (trim)**
 - Button 4: **Elevator up (trim)**
