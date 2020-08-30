@@ -6,7 +6,8 @@
 
 ## PXN-2119 Controls
 
-Button 1 - Trigger: Brake
+- Button 1 - Trigger: _Brake_
+- Button 2 - Lower Trigger: _Release parking brake_
 
 
 ***
