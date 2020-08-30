@@ -21,7 +21,7 @@
     - 12: _TOGGLE LANDING LIGHTS_
 - Slider Axis:
     - **FLAPS AXIS (-100 TO 100%)** (Joystick Slider X)
-    - Reverse: **checked**
+    - **Reverse: checked**
     - _when slider position is down (-), Flaps = 30 degrees_
     - _when slider position is in 3 bars from the bottom (-), Flaps = 20 degrees_
     - _when slider position is in the middle, or 4 bars from the bottom (-), Flaps = 10 degrees_
