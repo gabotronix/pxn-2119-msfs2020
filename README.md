@@ -12,6 +12,16 @@ This repository contains text files that have button and axis assignments for se
 
 If you're just getting started like me, you might want to check out the controls for the Cessna 152 as a starting point. It's the aircraft used in the training lessons.
 
+# In-game Controls
+In FS2020, you can assign controls for each aircraft via the Preset Manager. Here's a sample workflow:
+
+1. Go to FS2020 > Options > Controls
+2. From there, click on the unknown peripheral to highlight it.
+3. Click on PRESET MANAGER and assign a name to it. For example, name it _PXN-2119-CESSNA-152_.
+4. In the FILTER setting, set it to ALL instead of ESSENTIALS.
+5. Search for a particular control name in the SEARCH setting.
+6. Use the text files contained in this repository as a reference.
+
 ## PXN-2119 Buttons and Axes
 The PXN-2119 has 18 buttons, 6 axes, and 2 POV hats. The Throttle base is connected to the Joystick base via a PS2 connector (KB/mouse connector from the olden days). Then, the Joystick base is connected to the PC via USB:
 
