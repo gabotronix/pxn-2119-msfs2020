@@ -65,6 +65,15 @@
 - POV hat on throttle
 - Small Rotary Axis (ROTARY X) on throttle
 
+### Dead Zone and Sensitivity
+I am not sure how both of these affect my controls, but I often experienced the aircraft's nose picthing up when turning right on the joystick. It seemed as if I was activating both Right+Down even though I only intended to go Right.
+
+To resolve the issue, I accessed the SENSITIVITY settings of PXN-2119 from the Control options, then set the DEAD ZONE to a specific percentage. I arrived at 31% because it was the most optimal level before the pitch (up) intervened. I also set the sensitivity to 40%, as it seemed to make turning smoother.
+
+There is a consequence to setting my dead zone at 31%. I have to put a bit more effort when pulling back during a take off, or when ascending to a higher altitude.
+
+I recommend not messing with these settings unless you're having Joystick issues as well.
+
 ***
 
 ![pxn2119_control_labels](https://user-images.githubusercontent.com/9207205/91651736-d9643700-eac2-11ea-996f-206442c51563.jpg)
