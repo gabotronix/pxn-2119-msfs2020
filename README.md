@@ -45,7 +45,7 @@ The PXN-2119 has 18 buttons, 6 axes, and 2 POV hats. The Throttle base is connec
 
 **POV Hats**
 1. Joystick POV = can be used to control cockpit camera and external camera
-2. Throttle POV = no idea what it can be used for
+2. Throttle POV = located above Button 16; no idea what it can be used for
 
 ***
 _Credits:_
