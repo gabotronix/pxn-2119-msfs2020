@@ -14,7 +14,7 @@
 - Button 4: **Elevator up (trim)**
 - Button 5: **AILERON TRIM LEFT**
 - Button 6: **AILERON TRIM RIGHT**
-- Buttons 7-12: _anything you want_. Example:
+- Buttons 7-12: _anything you want. Example:_
     - 7:  _DISPLAY MAP_
     - 8:  _TOGGLE DRONE_
     - 9:  _TOGGLE CABIN LIGHTS_
