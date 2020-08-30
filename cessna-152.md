@@ -13,13 +13,19 @@
 - Button 5: **AILERON TRIM LEFT**
 - Button 6: **AILERON TRIM RIGHT**
 - Buttons 7-12: _anything you want. Example:_
-    - 7:  _DISPLAY MAP_
+    - 7:  _DISPLAY MAP (on Cockpit View)_
     - 8:  _TOGGLE DRONE_
     - 9:  _TOGGLE CABIN LIGHTS_
     - 10: _TOGGLE WING LIGHTS_
     - 11: _TOGGLE TAXI LIGHTS_
     - 12: _TOGGLE LANDING LIGHTS_
-- Slider Axis: **FLAPS AXIS (-100 TO 100%)** (Joystick Slider X)
+- Slider Axis:
+    - **FLAPS AXIS (-100 TO 100%)** (Joystick Slider X)
+    - Reverse: checked
+    - when slider position is down (-), Flaps = 30 degrees
+    - when slider position is in 3 bars from the bottom (-), Flaps = 20 degrees
+    - when slider position is in the middle, or 4 bars from the bottom (-), Flaps = 10 degrees
+    - when slider position is up (+), Flaps = 0 degrees
 - POV Hat: _(can be assigned to multiple camera views)_
     - Down:
         - **COCKPIT LOOK DOWN**
