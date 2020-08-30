@@ -26,6 +26,7 @@
     - when slider position is in 3 bars from the bottom (-), Flaps = 20 degrees
     - when slider position is in the middle, or 4 bars from the bottom (-), Flaps = 10 degrees
     - when slider position is up (+), Flaps = 0 degrees
+    - During take off, flaps should start at 0 degrees (or up +).
 - POV Hat: _(can be assigned to multiple camera views)_
     - Down:
         - **COCKPIT LOOK DOWN**
