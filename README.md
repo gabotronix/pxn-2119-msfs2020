@@ -42,7 +42,7 @@ The PXN-2119 has 16 buttons, 6 axes, and 2 POV hats. The Throttle base is connec
 **Buttons**
 1. Trigger = Button 1; can be used for the main brake
 2. Lower Trigger = Button 2; can be used for the parking brake
-3. Buttons 3-6 = can be used to control elevator trim (3-4) and seat height (5-6)
+3. Buttons 3-6 = can be used to control elevator trim (3-4) and aileron trim (5-6)
 4. Buttons 7-12 = located at the left of the Joystick base; assign anything, such as the light toggle
 5. Button 13 = on the lower right side of the throttle; can be a toggle for reverse thrust
 6. Button 14 = can be used to toggle the landing gear
