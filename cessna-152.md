@@ -56,6 +56,8 @@
 - Button 16: **INCREASE THROTTLE**
 - Large Rotary Axis (top): **MIXTURE AXIS (-100 TO 100%)** (Joystick R-Axis Y)
 
+***
+
 ### Keyboard: Essential Controls
 - END: **COCKPIT/EXTERNAL VIEW MODE**
 - SCROLL LOCK: **DISPLAY ATC**
