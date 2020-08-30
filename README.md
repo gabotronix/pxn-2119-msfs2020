@@ -1,5 +1,5 @@
 # PXN-2119 for Microsoft Flight Simulator (FS2020)
-Peripheral Settings for [PXN-2119](http://www.e-pxn.com/products/arcade-stick/pxn-2119) HOTAS on Microsoft Flight Simulator
+Peripheral Control Settings for [PXN-2119](http://www.e-pxn.com/products/arcade-stick/pxn-2119) HOTAS on Microsoft Flight Simulator
 
 ![pxn-2119-fs2020_cover](https://user-images.githubusercontent.com/9207205/91651241-dbc39280-eabc-11ea-9c29-29563ef03a79.jpg)
 
