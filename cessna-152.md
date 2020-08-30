@@ -52,11 +52,11 @@
 - Button 14: **TOGGLE LANDING GEAR**
 - Button 15: **DECREASE THROTTLE**
 - Button 16: **INCREASE THROTTLE**
-- Large Rotary Axis (top): **MIXTURE AXIS (-100 TO 100%)** (Joystick R-Axis Y)
+- Large Rotary Axis (ROTARY Y): **MIXTURE AXIS (-100 TO 100%)** (Joystick R-Axis Y)
 
 ### Unassigned:
 - POV hat on throttle
-- Small Rotary Axis (right) on throttle
+- Small Rotary Axis (ROTARY X) on throttle
 
 ***
 
