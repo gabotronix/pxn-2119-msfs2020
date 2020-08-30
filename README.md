@@ -21,7 +21,7 @@ In FS2020, you can assign controls for each aircraft via the Preset Manager. Her
 2. From there, click on the unknown peripheral to highlight it.
 3. Click on PRESET MANAGER and assign a name to it. For example, name it _PXN-2119-CESSNA-152_.
 4. In the FILTER setting, set it to ALL instead of ESSENTIALS.
-5. Search for a particular control name in the SEARCH setting.
+5. Search for a particular control name in the SEARCH filter.
 6. Use the files contained in this repository as a reference.
 
 ![pxn2119_preset_manager](https://user-images.githubusercontent.com/9207205/91654131-028fc200-ead9-11ea-8033-e2629cbb9471.jpg)
