@@ -57,6 +57,10 @@
 - Left arrow: **TRANSLATE COCKPIT VIEW LEFT**
 - Right arrow: **TRANSLATE COCKPIT VIEW RIGHT**
 
+### Reference Aircraft - Cessna 152
+
+![pxn2119_cessna152_parts](https://user-images.githubusercontent.com/9207205/91654003-23a3e300-ead8-11ea-8346-c31ab824a6cb.jpg)
+
 ***
 
 ![pxn2119_control_labels](https://user-images.githubusercontent.com/9207205/91651736-d9643700-eac2-11ea-996f-206442c51563.jpg)
