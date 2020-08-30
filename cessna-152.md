@@ -79,7 +79,7 @@
 - Down arrow: **DECREASE COCKPIT VIEW HEIGHT**
 - Left arrow: **TRANSLATE COCKPIT VIEW LEFT**
 - Right arrow: **TRANSLATE COCKPIT VIEW RIGHT**
-- CTRL + Space:
+- CTRL + Space (or _f_ key):
     - **RESET COCKPIT VIEW**
     - **RESET DRONE TOP DOWN VIEW**
     - **RESET EXTERNAL VIEW**
