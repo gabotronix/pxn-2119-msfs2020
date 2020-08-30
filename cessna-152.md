@@ -58,6 +58,8 @@
 - POV hat on throttle
 - Small Rotary Axis (right) on throttle
 
+***
+
 ![pxn2119_control_labels](https://user-images.githubusercontent.com/9207205/91651736-d9643700-eac2-11ea-996f-206442c51563.jpg)
 
 ***
