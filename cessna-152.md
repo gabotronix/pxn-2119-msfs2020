@@ -6,7 +6,7 @@
 
 ## PXN-2119 Controls
 
-**Joystick**
+### Joystick
 - Joystick: **AILERONS AXIS** (Joystick L-Axis X)
 - Button 1 - Trigger: **Brake**
 - Button 2 - Lower Trigger: **TOGGLE PARKING BRAKES**
@@ -40,7 +40,7 @@
     - Right: **COCKPIT LOOK RIGHT**
            : **EXTERNAL VIEW LOOK RIGHT**
 
-**Throttle**
+### Throttle
 - Main Throttle: **THROTTLE AXIS** (Joystick L-Axis Z)
 - Button 13: **TOGGLE THROTTLE REVERSE THRUST**
 - Button 14: **TOGGLE LANDING GEAR**
@@ -48,7 +48,7 @@
 - Button 16: **INCREASE THROTTLE**
 - Large Rotary Axis (top): **MIXTURE AXIS (-100 TO 100%)** (Joystick R-Axis Y)
 
-## Keyboard: Essential Controls
+### Keyboard: Essential Controls
 END: **COCKPIT/EXTERNAL VIEW MODE**
 SCROLL LOCK: **DISPLAY ATC**
 v: **DISPLAY MAP**
