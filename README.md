@@ -5,7 +5,7 @@ Peripheral Control Settings for [PXN-2119](http://www.e-pxn.com/products/arcade-
 
 The PXN-2119 is a poor simmer's HOTAS. It's the only HOTAS available in my region as of today. Regardless, it got me into MS Flight Simulator again after nearly two decades of absence. The last Flight Simulator I played was [2004: A Century of Flight](https://en.wikipedia.org/wiki/Microsoft_Flight_Simulator_2004:_A_Century_of_Flight). I sucked at the game back then, I still suck at it now.
 
-In FS2020, the PXN-2119 has no name. It's probably because the Windows 10 driver for it is not in English. I didn't find a way, in-game or otherwise, to export the controls as an XML. So, this repo will have to be in the form of a documentation for now.
+In FS2020, the PXN-2119 has no name. It's probably because the Windows 10 driver for it is not in English. I didn't find a way, in-game or otherwise, to export the controls as a file. So, this repo will have to be in the form of a documentation for now.
 
 # How To Use This Repository
 This repository contains files in Markdown format. Each one has button and axis assignments for a particular aircraft. Simply click on a file for the aircraft you like, then use it as a reference for your in-game control options in FS2020 > Options > Controls. You can search by Name or Input within the FS2020 control options.
