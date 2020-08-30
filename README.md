@@ -13,7 +13,7 @@ This repository contains text files that have button and axis assignments for se
 Simply click on a text file for the aircraft you like, then use it as a reference for your in-game control options in FS2020 > Options > Controls. You can search by Name or Input within the FS2020 control options.
 
 ## PXN-2119 Buttons and Axes
-The PXN-2119 has 18 buttons, 6 axes, and 2 POV hats. The Throttle base is connected to the Joystick base via a PS2 connector (KB/mouse connector from the olden days). The Joystick base is then connected to the PC via USB:
+The PXN-2119 has 18 buttons, 6 axes, and 2 POV hats. The Throttle base is connected to the Joystick base via a PS2 connector (KB/mouse connector from the olden days). Then, the Joystick base is connected to the PC via USB:
 
 ![pxn2119_control_labels](https://user-images.githubusercontent.com/9207205/91651736-d9643700-eac2-11ea-996f-206442c51563.jpg)
 
