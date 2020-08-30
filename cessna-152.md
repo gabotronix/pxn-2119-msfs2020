@@ -69,7 +69,7 @@
 ### Dead Zone and Sensitivity
 I am not sure how both of these affect my controls, but I often experienced the aircraft's nose picthing up when turning left on the joystick. It seemed as if I was activating both Left+Down even though I only intended to go Left.
 
-![pxn2119_deadzone](https://i.imgur.com/mdFQeie.jpg)
+![pxn2119_deadzone](https://user-images.githubusercontent.com/9207205/91660208-82348580-eb07-11ea-89a4-ba263f6b1172.jpg)
 
 To resolve the issue, I accessed the SENSITIVITY settings of PXN-2119 from the Control options, then set the DEAD ZONE to a specific percentage. I arrived at 31% because it was the level at which I can turn left at a 30 degree angle before the pitch (up) intervened. I also set the sensitivity to 40%, as it seemed to make turning smoother.
 
