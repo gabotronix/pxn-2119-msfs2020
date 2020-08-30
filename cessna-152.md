@@ -26,20 +26,27 @@
     - Down:
         - **COCKPIT LOOK DOWN**
         - **EXTERNAL VIEW LOOK DOWN**
-    - Down-Left: **COCKPIT LOOK DOWN LEFT**
-               : **EXTERNAL VIEW LOOK DOWN LEFT**
-    - Down-Right: **COCKPIT LOOK DOWN RIGHT**
-                : **EXTERNAL VIEW LOOK DOWN RIGHT**
-    - Up: **COCKPIT LOOK UP**
-        : **EXTERNAL VIEW LOOK UP**
-    - Up-Left: **COCKPIT LOOK UP LEFT**
-             : **EXTERNAL VIEW LOOK UP LEFT**
-    - Up-Right: **COCKPIT LOOK UP RIGHT**
-              : **EXTERNAL VIEW LOOK UP RIGHT**
-    - Left: **COCKPIT LOOK LEFT**
-          : **EXTERNAL VIEW LOOK LEFT**
-    - Right: **COCKPIT LOOK RIGHT**
-           : **EXTERNAL VIEW LOOK RIGHT**
+    - Down-Left:
+        - **COCKPIT LOOK DOWN LEFT**
+        - **EXTERNAL VIEW LOOK DOWN LEFT**
+    - Down-Right:
+        - **COCKPIT LOOK DOWN RIGHT**
+        - **EXTERNAL VIEW LOOK DOWN RIGHT**
+    - Up:
+        - **COCKPIT LOOK UP**
+        - **EXTERNAL VIEW LOOK UP**
+    - Up-Left:
+        - **COCKPIT LOOK UP LEFT**
+        - **EXTERNAL VIEW LOOK UP LEFT**
+    - Up-Right:
+        - **COCKPIT LOOK UP RIGHT**
+        - **EXTERNAL VIEW LOOK UP RIGHT**
+    - Left:
+        - **COCKPIT LOOK LEFT**
+        - **EXTERNAL VIEW LOOK LEFT**
+    - Right:
+        - **COCKPIT LOOK RIGHT**
+        - **EXTERNAL VIEW LOOK RIGHT**
 
 ### Throttle
 - Main Throttle: **THROTTLE AXIS** (Joystick L-Axis Z)
