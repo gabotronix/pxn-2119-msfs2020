@@ -33,7 +33,7 @@ The PXN-2119 has 18 buttons, 6 axes, and 2 POV hats. The Throttle base is connec
 3. Slider axis = behind the Joystick; can be used for flaps
 4. Throttle axis
 5. Small rotary axis = lower right of throttle
-6. Large rotary axis = upper right of throttle; can be used to control mixture/turn off engine
+6. Large rotary axis = upper right of throttle; can be used to control mixture/turn off/on engine
 
 **Buttons**
 1. Trigger = Button 1; can be used for the main brake
