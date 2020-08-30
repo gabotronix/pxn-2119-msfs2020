@@ -10,7 +10,9 @@ In FS2020, the PXN-2119 has no name. It's probably because the Windows 10 driver
 # How To Use This Repository
 This repository contains files in Markdown format. Each one has button and axis assignments for a particular aircraft. Simply click on a file for the aircraft you like, then use it as a reference for your in-game control options in FS2020 > Options > Controls. You can search by Name or Input within the FS2020 control options.
 
-If you're just getting started like me, you might want to check out the controls for the Cessna 152 as a starting point. It's the aircraft used in the training lessons.
+If you're just getting started like me, you might want to check out the controls for the Cessna 152. It's the aircraft used in the training lessons.
+
+![pxn2119-cessna152_menu](https://user-images.githubusercontent.com/9207205/91654032-4df5a080-ead8-11ea-87d2-9b3e58267865.jpg)
 
 # In-game Controls
 In FS2020, you can assign controls for each aircraft via the Preset Manager. Here's a sample workflow:
@@ -21,6 +23,8 @@ In FS2020, you can assign controls for each aircraft via the Preset Manager. Her
 4. In the FILTER setting, set it to ALL instead of ESSENTIALS.
 5. Search for a particular control name in the SEARCH setting.
 6. Use the files contained in this repository as a reference.
+
+![pxn2119_preset_manager](https://user-images.githubusercontent.com/9207205/91654131-028fc200-ead9-11ea-8033-e2629cbb9471.jpg)
 
 ## PXN-2119 Buttons and Axes
 The PXN-2119 has 18 buttons, 6 axes, and 2 POV hats. The Throttle base is connected to the Joystick base via a PS2 connector (KB/mouse connector from the olden days). Then, the Joystick base is connected to the PC via USB:
@@ -47,6 +51,9 @@ The PXN-2119 has 18 buttons, 6 axes, and 2 POV hats. The Throttle base is connec
 **POV Hats**
 1. Joystick POV = can be used to control cockpit camera and external camera
 2. Throttle POV = located above Button 16 on the throttle; no idea what it can be used for
+
+## Reference Aircraft - Cessna 152
+![pxn2119_cessna152_parts](https://user-images.githubusercontent.com/9207205/91654003-23a3e300-ead8-11ea-8346-c31ab824a6cb.jpg)
 
 ***
 _Credits:_
