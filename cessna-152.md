@@ -6,6 +6,7 @@
 
 ### Joystick
 - Joystick: **AILERONS AXIS** (Joystick L-Axis X)
+- Twist Joystick: **RUDDER AXIS** (Joystick R-Axis Z)
 - Button 1 - Trigger: **BRAKES**
 - Button 2 - Lower Trigger: **TOGGLE PARKING BRAKES**
 - Button 3: **ELEVATOR TRIM DOWN (NOSE DOWN)**
@@ -13,7 +14,7 @@
 - Button 5: **AILERON TRIM LEFT**
 - Button 6: **AILERON TRIM RIGHT**
 - Buttons 7-12: _anything you want. Example:_
-    - 7:  _DISPLAY MAP (on Cockpit View)_
+    - 7:  _DISPLAY MAP (on Cockpit View only)_
     - 8:  _TOGGLE DRONE_
     - 9:  _TOGGLE CABIN LIGHTS_
     - 10: _TOGGLE WING LIGHTS_
@@ -26,7 +27,7 @@
     - _when slider position is in 3 bars from the bottom (-), Flaps = 20 degrees_
     - _when slider position is in the middle, or 4 bars from the bottom (-), Flaps = 10 degrees_
     - _when slider position is up (+), Flaps = 0 degrees_
-    - _During take off, flaps should start at 0 degrees (or up +)._
+    - _During take off, flaps should start at 0 degrees (or up + in the slider)._
 - POV Hat: _(can be assigned to multiple camera views)_
     - Down:
         - **COCKPIT LOOK DOWN**
@@ -66,13 +67,15 @@
 - Small Rotary Axis (ROTARY X) on throttle
 
 ### Dead Zone and Sensitivity
-I am not sure how both of these affect my controls, but I often experienced the aircraft's nose picthing up when turning right on the joystick. It seemed as if I was activating both Right+Down even though I only intended to go Right.
+I am not sure how both of these affect my controls, but I often experienced the aircraft's nose picthing up when turning left on the joystick. It seemed as if I was activating both Left+Down even though I only intended to go Left.
 
-To resolve the issue, I accessed the SENSITIVITY settings of PXN-2119 from the Control options, then set the DEAD ZONE to a specific percentage. I arrived at 31% because it was the most optimal level before the pitch (up) intervened. I also set the sensitivity to 40%, as it seemed to make turning smoother.
 
-There is a consequence to setting my dead zone at 31%. I have to put a bit more effort when pulling back during a take off, or when ascending to a higher altitude.
 
-I recommend not messing with these settings unless you're having Joystick issues as well.
+To resolve the issue, I accessed the SENSITIVITY settings of PXN-2119 from the Control options, then set the DEAD ZONE to a specific percentage. I arrived at 31% because it was the level at which I can turn left at a 30 degree angle before the pitch (up) intervened. I also set the sensitivity to 40%, as it seemed to make turning smoother.
+
+There is a consequence to setting my dead zone at 31% though. I have to put a bit more effort when pulling back during a take off, or when ascending to a higher altitude.
+
+I do not recommend messing with these settings unless you're having Joystick issues as well.
 
 ***
 
