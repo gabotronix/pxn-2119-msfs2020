@@ -71,7 +71,7 @@ I am not sure how both of these affect my controls, but I often experienced the 
 
 ![pxn2119_deadzone](https://user-images.githubusercontent.com/9207205/91660208-82348580-eb07-11ea-89a4-ba263f6b1172.jpg)
 
-To resolve the issue, I accessed the SENSITIVITY settings of PXN-2119 from the Control options, then set the DEAD ZONE to a specific percentage. I arrived at 31% because it was the level at which I can turn left at a 30 degree angle before the pitch (up) intervened. I also set the sensitivity to 40%, as it seemed to make turning smoother.
+To resolve the issue, I accessed the SENSITIVITY settings of PXN-2119 from the Control options, then set the DEAD ZONE to a specific percentage. I arrived at 31% because it was the level at which I can turn left at a 30 degree angle before the pitch (up) intervened. I also set the sensitivity to -40%, as it seemed to make turning smoother.
 
 There is a consequence to setting my dead zone at 31% though. I have to put a bit more effort when pulling back during a take off, or when ascending to a higher altitude.
 
