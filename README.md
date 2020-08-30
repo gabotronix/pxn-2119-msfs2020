@@ -37,5 +37,5 @@ The PXN-2119 has 18 buttons, 6 axes, and 2 POV hats:
 ***
 _Credits:_
 
-- [PXN Website](http://www.e-pxn.com)
+- [PXN Website](http://www.e-pxn.com) (_for the reference photos_)
 - [Squirrel on YouTube](https://www.youtube.com/channel/UCSeb5KSN6BC1c0WwEjUzM_A)
