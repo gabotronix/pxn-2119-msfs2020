@@ -5,6 +5,8 @@
 ## PXN-2119 Controls for FS2020
 
 ### Joystick
+![pxn_2119_joystick_labels](https://user-images.githubusercontent.com/9207205/91681215-4984c280-eb80-11ea-8332-be54d4b673a4.jpg)
+
 - Joystick: **AILERONS AXIS** (Joystick L-Axis X)
 - Twist Joystick: **RUDDER AXIS** (Joystick R-Axis Z)
 - Button 1 - Trigger: **BRAKES**
@@ -15,7 +17,7 @@
 - Button 6: **AILERON TRIM RIGHT**
 - Buttons 7-12: _anything you want. Example:_
     - 7:  _DISPLAY MAP (on Cockpit View only)_
-    - 8:  _TOGGLE DRONE_
+    - 8:  _COCKPIT/EXTERNAL VIEW MODE_
     - 9:  _TOGGLE CABIN LIGHTS_
     - 10: _TOGGLE WING LIGHTS_
     - 11: _TOGGLE TAXI LIGHTS_
@@ -55,14 +57,18 @@
         - **EXTERNAL VIEW LOOK RIGHT**
 
 ### Throttle
+![pxn2119_throttle_labels](https://user-images.githubusercontent.com/9207205/91681241-63bea080-eb80-11ea-869e-ede2f4069370.jpg)
+
 - Main Throttle: **THROTTLE AXIS** (Joystick L-Axis Z)
-- Button 13: **TOGGLE THROTTLE REVERSE THRUST**
-- Button 14: **TOGGLE LANDING GEAR**
+- Button 13: _unassigned_ *
+- Button 14: _unassigned_ *
 - Button 15: **DECREASE THROTTLE**
 - Button 16: **INCREASE THROTTLE**
 - Large Rotary Axis (ROTARY Y): **MIXTURE AXIS (-100 TO 100%)** (Joystick R-Axis Y)
 
 ### Unassigned:
+- Button 13: supposed to be for _TOGGLE THROTTLE REVERSE THRUST_, but it's not applicable to the Cessna 152
+- Button 14: supposed to be for _TOGGLE LANDING GEAR_, but it's not applicable to the Cessna 152
 - POV hat on throttle
 - Small Rotary Axis (ROTARY X) on throttle
 
@@ -79,10 +85,6 @@ I do not recommend messing with these settings unless you're having Joystick iss
 
 ***
 
-![pxn2119_control_labels](https://user-images.githubusercontent.com/9207205/91651736-d9643700-eac2-11ea-996f-206442c51563.jpg)
-
-***
-
 ### Keyboard: Essential Controls
 - END: **COCKPIT/EXTERNAL VIEW MODE**
 - SCROLL LOCK: **DISPLAY ATC**
@@ -96,6 +98,18 @@ I do not recommend messing with these settings unless you're having Joystick iss
     - **RESET COCKPIT VIEW**
     - **RESET DRONE TOP DOWN VIEW**
     - **RESET EXTERNAL VIEW**
+- INSERT: **TOGGLE DRONE**
+    - w: **TRANSLATE DRONE FORWARD**
+    - s: **TRANSLATE DRONE BACKWARD**
+    - a: **TRANSLATE DRONE LEFT**
+    - d: **TRANSLATE DRONE RIGHT**
+    - Num 2: **PITCH DRONE DOWN**
+    - Num 4: **YAW DRONE LEFT**
+    - Num 6: **YAW DRONE RIGHT**
+    - Num 8: **PITCH DRONE UP**
+    - Num 7: **ROLL DRONE LEFT**
+    - Num 9: **ROLL DRONE RIGHT**
+    - _the drone can also be controlled via an attached Xbox 360/Xbox One controller_
 
 *** 
 
