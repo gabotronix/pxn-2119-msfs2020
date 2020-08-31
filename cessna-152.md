@@ -2,7 +2,7 @@
 
 ![pxn2119-cessna152-cover](https://user-images.githubusercontent.com/9207205/91654453-64512b80-eadb-11ea-95ed-77bf670c558c.jpg)
 
-## PXN-2119 Controls for FS2020
+## PXN-2119 Controls (Cessna 152, FS2020)
 
 ### Joystick
 ![pxn_2119_joystick_labels](https://user-images.githubusercontent.com/9207205/91681215-4984c280-eb80-11ea-8332-be54d4b673a4.jpg)
