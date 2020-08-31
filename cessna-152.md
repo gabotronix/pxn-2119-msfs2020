@@ -15,7 +15,7 @@
 - Button 4: **ELEVATOR TRIM UP (NOSE UP)**
 - Button 5: **AILERON TRIM LEFT**
 - Button 6: **AILERON TRIM RIGHT**
-- Buttons 7-12: _anything you want. Example:_
+- Buttons 7-12: _anything you want. For example:_
     - 7:  _DISPLAY MAP (on Cockpit View only)_
     - 8:  _COCKPIT/EXTERNAL VIEW MODE_
     - 9:  _TOGGLE CABIN LIGHTS_
@@ -25,10 +25,10 @@
 - Slider Axis:
     - **FLAPS AXIS (-100 TO 100%)** (Joystick Slider X)
     - **Reverse: checked**
-    - _when slider position is down (-), Flaps = 30 degrees_
-    - _when slider position is 3 bars from the bottom (-), Flaps = 20 degrees_
-    - _when slider position is in the middle, or 4 bars from the bottom (-), Flaps = 10 degrees_
-    - _when slider position is up (+), Flaps = 0 degrees_
+    - _Slider position: Down (-) means Flaps = 30 degrees or fully deployed_
+    - _Slider position: 3 bars from (-) means Flaps = 20 degrees_
+    - _Slider position: Middle or 4 bars from (-) means Flaps = 10 degrees_
+    - _Slider position: Up (+) means Flaps = 0 degrees or fully retracted/leveld with wings_
     - _During take off, flaps should start at 0 degrees (or up + in the slider)._
 - POV Hat: _(can be assigned to multiple camera views)_
     - Down:
