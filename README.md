@@ -29,7 +29,7 @@ In FS2020, you can assign controls for each aircraft via the Preset Manager. Her
 ![pxn2119_preset_manager](https://user-images.githubusercontent.com/9207205/91654131-028fc200-ead9-11ea-8033-e2629cbb9471.jpg)
 
 ## PXN-2119 Buttons and Axes
-The PXN-2119 has 16 buttons, 6 axes, and 2 POV hats. The Throttle base is connected to the Joystick base via a PS2 connector (KB/mouse connector from the olden days). Then, the Joystick base is connected to the PC via USB:
+The PXN-2119 has 16 buttons, 6 axes, and 2 POV hats. The Throttle base is connected to the Joystick base via a PS/2 connector. Then, the Joystick base is connected to the PC via USB:
 
 ![pxn2119_control_labels](https://user-images.githubusercontent.com/9207205/91651736-d9643700-eac2-11ea-996f-206442c51563.jpg)
 
