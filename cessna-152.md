@@ -66,12 +66,14 @@
 - Button 16: **INCREASE THROTTLE**
 - Large Rotary Axis (ROTARY Y): **MIXTURE AXIS (-100 TO 100%)** (Joystick R-Axis Y)
 
+***
 ### Unassigned:
 - * Button 13: supposed to be for _TOGGLE THROTTLE REVERSE THRUST_, but it's not applicable to the Cessna 152
 - * Button 14: supposed to be for _TOGGLE LANDING GEAR_, but it's not applicable to the Cessna 152
 - POV hat on throttle
 - Small Rotary Axis (ROTARY X) on throttle
 
+***
 ### Dead Zone and Sensitivity
 I am not sure how both of these affect my controls, but I often experienced the aircraft's nose picthing up when turning left on the joystick. It seemed as if I was activating both Left+Down even though I only intended to go Left.
 
