@@ -1,28 +1,30 @@
 # PXN-2119 for Microsoft Flight Simulator (FS2020)
-Peripheral Control Settings for [PXN-2119](http://www.e-pxn.com/products/arcade-stick/pxn-2119) HOTAS on Microsoft Flight Simulator
+Peripheral Control Settings for [PXN-2119](http://www.e-pxn.com/products/arcade-stick/pxn-2119) HOTAS
 
 ![pxn-2119-fs2020_cover](https://user-images.githubusercontent.com/9207205/91651241-dbc39280-eabc-11ea-9c29-29563ef03a79.jpg)
 
-The PXN-2119 is a poor simmer's HOTAS. It's the only HOTAS available in my region as of today. Regardless, it got me into MS Flight Simulator again after nearly two decades of absence. The last Flight Simulator I played was [2004: A Century of Flight](https://en.wikipedia.org/wiki/Microsoft_Flight_Simulator_2004:_A_Century_of_Flight). I sucked at the game back then, I still suck at it now.
+The PXN-2119 is a poor simmer's [HOTAS](https://en.wikipedia.org/wiki/HOTAS). It's the only HOTAS available in my region as of today. It got me into MS Flight Simulator again after nearly two decades of absence. As a newbie, getting familiar with aviation terms, as well as mapping buttons was mind-boggling. That's why I came up with this documentation.
 
-In FS2020, the PXN-2119 has no name. It's probably because the Windows 10 driver for it is not in English. I didn't find a way, in-game or otherwise, to export the controls to a file. So, this repo will have to be in the form of a documentation for now.
+In FS2020, the **PXN-2119 has no name**. It's probably because the Windows 10 driver for it is not in English.
+
+I didn't find a way, in-game or otherwise, to export the controls to a file. So, this repo will have to be in the form of a document for now.
 
 # How To Use This Repository
-This repository contains files in Markdown format. Each one has button and axis assignments for a particular aircraft. Simply click on a file with an aircraft name above, then use it as a reference for your in-game control options in FS2020 > Options > Controls. You can search by Name or Input within the FS2020 control options.
+This repository contains files in Markdown format (_.md_). Each one has button and axis assignments for a particular aircraft. Simply click on a file with an aircraft name above, then use it as a reference for your in-game controls. You can search by Name or Input within the FS2020 control options.
 
 If you're just getting started like me, you might want to check out the controls for the Cessna 152. It's the aircraft used in the training lessons.
 
 ![pxn2119-cessna152_menu](https://user-images.githubusercontent.com/9207205/91654032-4df5a080-ead8-11ea-87d2-9b3e58267865.jpg)
 
 # In-game Controls
-In FS2020, you can assign controls for each aircraft via the Preset Manager. Here's a sample workflow:
+In FS2020, you can assign controls for each aircraft via the Preset Manager. Here's an example workflow:
 
 1. Go to FS2020 > Options > Controls
-2. From there, click on the unknown peripheral to highlight it.
-3. Click on PRESET MANAGER and assign a name to it. For example, name it _PXN-2119-CESSNA-152_.
+2. From there, click on the unnamed peripheral to highlight it.
+3. Click on PRESET MANAGER and assign a name to it. For example, _PXN-2119-CESSNA-152_.
 4. In the FILTER setting, set it to ALL instead of ESSENTIALS.
 5. Search for a particular control name in the SEARCH filter.
-6. Use the files contained in this repository as a reference.
+6. Use the files contained in this repository as a reference to your button and axis assignments.
 
 ![pxn2119_preset_manager](https://user-images.githubusercontent.com/9207205/91654131-028fc200-ead9-11ea-8033-e2629cbb9471.jpg)
 
