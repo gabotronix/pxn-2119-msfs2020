@@ -28,7 +28,7 @@
     - _Slider position: Down (-) means Flaps = 30 degrees or fully deployed_
     - _Slider position: 3 bars from (-) means Flaps = 20 degrees_
     - _Slider position: Middle or 4 bars from (-) means Flaps = 10 degrees_
-    - _Slider position: Up (+) means Flaps = 0 degrees or fully retracted/leveld with wings_
+    - _Slider position: Up (+) means Flaps = 0 degrees or fully retracted/leveled with wings_
     - _During take off, flaps should start at 0 degrees (or up + in the slider)._
 - POV Hat: _(can be assigned to multiple camera views)_
     - Down:
