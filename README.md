@@ -35,9 +35,9 @@ The PXN-2119 has 16 buttons, 6 axes, and 2 POV hats. The Throttle base is connec
 
 **Axes**
 1. Aileron axis = Joystick main control for flying
-2. Rudder axis = Twist Joystick twist left or right; can be used for taxiing
+2. Rudder axis = twist Joystick left or right; can be used for taxiing
 3. Slider axis = behind the Joystick; can be used for flaps
-4. Throttle axis = used to control RPM speed during take-off and when airborne
+4. Throttle axis = used to control RPM speed/guage during take-off and when airborne
 5. Small rotary axis = lower right of throttle; not sure what to map here
 6. Large rotary axis = upper right of throttle; can be used to control mixture/turn off engine
 
