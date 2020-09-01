@@ -12,7 +12,7 @@ I didn't find a way, in-game or otherwise, to export the controls to a file. So,
 # How To Use This Repository
 This repository contains files in Markdown format (_.md_). Each one has button and axis assignments for a particular aircraft. Simply click on a file with an aircraft name above, then use it as a reference for your in-game controls. You can search by Name or Input within the FS2020 control options.
 
-If you're just getting started like me, you might want to check out the controls for the Cessna 152. It's the aircraft used in the training lessons.
+If you're just getting started like me, you might want to check out the controls for the [Cessna 152](https://github.com/gabotronix/pxn-2119-msfs2020/blob/master/cessna-152.md). It's the aircraft used in the training lessons.
 
 ![pxn2119-cessna152_menu](https://user-images.githubusercontent.com/9207205/91654032-4df5a080-ead8-11ea-87d2-9b3e58267865.jpg)
 
