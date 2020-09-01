@@ -68,8 +68,8 @@
 
 ***
 ### Unassigned:
-- * Button 13: supposed to be for _TOGGLE THROTTLE REVERSE THRUST_, but it's not applicable to the Cessna 152
-- * Button 14: supposed to be for _TOGGLE LANDING GEAR_, but it's not applicable to the Cessna 152
+- Button 13*: supposed to be for _TOGGLE THROTTLE REVERSE THRUST_, but it's not applicable to the Cessna 152
+- Button 14*: supposed to be for _TOGGLE LANDING GEAR_, but it's not applicable to the Cessna 152
 - POV hat on throttle
 - Small Rotary Axis (ROTARY X) on throttle
 
